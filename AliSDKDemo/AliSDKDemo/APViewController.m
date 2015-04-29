@@ -143,9 +143,9 @@
 /*============================================================================*/
 /*=======================需要填写商户app申请的===================================*/
 /*============================================================================*/
-	NSString *partner = @"2088511610929862";
-    NSString *seller = @"2088511610929862";
-    NSString *privateKey = @"MIICdgIBADANBgkqhkiG9w0BAQEFAASCAmAwggJcAgEAAoGBAMKcDdYb1bDHSOM9JGQ46aqAxcv9mNHRBAjMKaCvqqs64ibIMmmigK+ipgMXBCHAAC4H9CtLQ3Ovu94MC5cP1Z1TmLUhXDpApS7JorzR5mgbVPtOPsxqeISptJ622z2gYXo4tQaIsWFMEXeHNyB9uWVCw5rsbwWGSBjOiFaU1bafAgMBAAECgYBRaGRlV3l5nLPB0zbg8enVWE7luWzvAEd2wqj7PeDgBh7KaF6mT8MTNa/KhRtGXwH0P4GFhtNtlmq5RUKn64jIr4PEi+vtCgu16d9f88C1jSIIaIO1ta28C4/5KWsPiC2BwXE++/JdzB1YqbD5rcWIG6rCn07KOGxN4Q6FTMKZwQJBAOOajQhjKpT4UZEjKSQLPq1yb70fU3hIMBJv12Nq6tUcGhUNkY95RYuQotARcW9nm+QxRKRocIu7CFGLLDQZmH8CQQDa47OeasxAN2cD83QDT5WoWCua3uOZvEyykpqL+l3pzkVD3rvPNrqRQHnPYfAr/lgBOw1vclsNq5Zc9L1HqdHhAkAbbAuB7zC6MhDhw7K5PQGYNClyR8vuugPQtNjmiYMxmekqkC/xcVMHta1oFDHukjUeETGL/WlR7H7cFECHJm5RAkEAvD7beMBMTGXZOHKlMTu+b3r0dUp+3vYr199w/jUhkzQMKaRiTIC6zrRujcWisZMZyGUq1s+4MveAZw0rw3fuwQJAKbKfXnjdXPy2GEWnJYhag/qGHEqK699r15iQPWHb9LGh82ra3JIxHEjfNfcEyo5lSJurDcHzzO90BrRCjZsUGQ==";
+	NSString *partner = @"";
+    NSString *seller = @"";
+    NSString *privateKey = @"";
 /*============================================================================*/
 /*============================================================================*/
 /*============================================================================*/
